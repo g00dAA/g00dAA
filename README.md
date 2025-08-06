@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Ahmed
+
+-👨🏻‍💻 AI Engineer sharing about my journey and learnings in tech!
+-👩🏻‍🎓 Studied Communications and Information Engineering at Zewail City - University of Science and Technology, Egypt.
+-🧑‍🏫 Teaching Assistant at the School of Computer Science and Artificial Intillegence at Zewail City.
+-💭 Currently learning and working on LLMs, and Generative AI!
+
 
 <!--
 **g00dAA/g00dAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
