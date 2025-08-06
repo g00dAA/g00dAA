@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Ahmed
 
 -👨🏻‍💻 AI Engineer sharing about my journey and learnings in tech!<br/>
--👩🏻‍🎓 Studied Communications and Information Engineering at Zewail City - University of Science and Technology, Egypt.
--🧑‍🏫 Teaching Assistant at the School of Computer Science and Artificial Intillegence at Zewail City.
--💭 Currently learning and working on LLMs, and Generative AI!
+-👩🏻‍🎓 Studied Communications and Information Engineering at Zewail City - University of Science and Technology, Egypt.<br/>
+-🧑‍🏫 Teaching Assistant at the School of Computer Science and Artificial Intillegence at Zewail City.<br/>
+-💭 Currently learning and working on LLMs, and Generative AI!<br/>
 
 
 <!--
